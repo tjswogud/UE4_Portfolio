@@ -1,0 +1,12 @@
+,WeaponType,ExecutePlace,Montage,PlayRate,index,IsSneak
+1,Sword,Front,AnimMontage'/Game/Character/Montages/Execute/VTM2/Frank_Damage_Critical_Katana_Hit_Montage.Frank_Damage_Critical_Katana_Hit_Montage',1,0,FALSE
+2,Sword,Front,AnimMontage'/Game/Character/Montages/Execute/VTM2/Frank_Damage_Critical_Warrior_Hit2_Montage.Frank_Damage_Critical_Warrior_Hit2_Montage',1,1,FALSE
+3,Sword,Behind,AnimMontage'/Game/Character/Montages/Execute/VTM2/Behind/Frank_Stealth_Kill_Hit_Behind_01_Montage.Frank_Stealth_Kill_Hit_Behind_01_Montage',1,0,TRUE
+4,Sword,Behind,AnimMontage'/Game/Character/Montages/Execute/VTM2/Behind/Frank_Stealth_Kill_Hit_Behind_03_Montage.Frank_Stealth_Kill_Hit_Behind_03_Montage',1,1,TRUE
+5,Sword,Behind,AnimMontage'/Game/Character/Montages/Execute/VTM2/Behind/Finisher01_B_B_Montage.Finisher01_B_B_Montage',1,0,FALSE
+6,Sword,Air,AnimMontage'/Game/Character/Montages/Execute/VTM2/Above/Paired_1HM_Stealth_SpinSwing_FromAbove_Vic_Montage.Paired_1HM_Stealth_SpinSwing_FromAbove_Vic_Montage',1,0,FALSE
+7,Sword,Air,AnimMontage'/Game/Character/Montages/Execute/VTM2/Above/Frank_Stealth_Kill_Hit_Top_03_Montage.Frank_Stealth_Kill_Hit_Top_03_Montage',1,1,FALSE
+8,Sword,Air,AnimMontage'/Game/Character/Montages/Execute/VTM2/Above/Frank_Stealth_Kill_Hit_Top_01_Montage.Frank_Stealth_Kill_Hit_Top_01_Montage',1,2,FALSE
+9,Sword,Air,AnimMontage'/Game/Character/Montages/Execute/VTM2/Above/Frank_Stealth_Kill_Hit_Top_02_Montage.Frank_Stealth_Kill_Hit_Top_02_Montage',1,3,FALSE
+10,Sword,Ledge,AnimMontage'/Game/Character/Montages/Execute/VTM2/Above/Frank_Stealth_Kill_Hit_Ledge_01_Montage.Frank_Stealth_Kill_Hit_Ledge_01_Montage',1,0,FALSE
+11,Sword,Ledge,AnimMontage'/Game/Character/Montages/Execute/VTM2/Above/Frank_Stealth_Kill_Hit_Ledge_02_Montage.Frank_Stealth_Kill_Hit_Ledge_02_Montage',1,1,FALSE

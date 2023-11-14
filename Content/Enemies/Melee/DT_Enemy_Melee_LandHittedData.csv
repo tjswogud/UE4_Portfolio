@@ -1,0 +1,14 @@
+,HittedType,Montage,PlayRate,Index
+1,NormalHit,AnimMontage'/Game/Character/Montages/Enemy1/Hitted/Normal/Katana_Blade_Damage_Front_Big_ver_A_Montage.Katana_Blade_Damage_Front_Big_ver_A_Montage',1,0
+2,NormalHit,AnimMontage'/Game/Character/Montages/Enemy1/Hitted/Normal/Katana_Blade_Damage_Front_Big_ver_B_Montage.Katana_Blade_Damage_Front_Big_ver_B_Montage',1,1
+3,NormalHit,AnimMontage'/Game/Character/Montages/Enemy1/Hitted/Normal/Katana_Blade_Damage_Front_Small_ver_B_Montage.Katana_Blade_Damage_Front_Small_ver_B_Montage',1,2
+4,NormalHit,AnimMontage'/Game/Character/Montages/Enemy1/Hitted/Normal/Katana_Blade_Damage_Left_Small_ver_A_Montage.Katana_Blade_Damage_Left_Small_ver_A_Montage',1,3
+5,NormalHit,AnimMontage'/Game/Character/Montages/Enemy1/Hitted/Normal/Frank_Damage_Strong_L_Chest_Montage.Frank_Damage_Strong_L_Chest_Montage',1,4
+6,NormalHit,AnimMontage'/Game/Character/Montages/Enemy1/Hitted/Normal/Frank_Damage_Strong_R_Chest_Montage.Frank_Damage_Strong_R_Chest_Montage',1,5
+7,NormalHit,AnimMontage'/Game/Character/Montages/Enemy1/Hitted/Normal/Frank_Damage_Strong_B1_Montage.Frank_Damage_Strong_B1_Montage',1,6
+8,StrongHit,AnimMontage'/Game/Character/Montages/Enemy1/Hitted/Strong/Katana_Blade_KnockDown_Front_Big_Montage.Katana_Blade_KnockDown_Front_Big_Montage',1,0
+9,StrongHit,AnimMontage'/Game/Character/Montages/Enemy1/Hitted/Strong/Katana_Blade_KnockDown_Back_ver_B_Montage.Katana_Blade_KnockDown_Back_ver_B_Montage',1,1
+10,StrongHit,AnimMontage'/Game/Character/Montages/Enemy1/Hitted/Strong/Frank_Damage_Air_Screw_Montage.Frank_Damage_Air_Screw_Montage',1,2
+11,StrongHit,AnimMontage'/Game/Character/Montages/Enemy1/Hitted/Strong/Frank_Damage_KnockDown_03_Montage.Frank_Damage_KnockDown_03_Montage',1,3
+12,StrongHit,AnimMontage'/Game/Character/Montages/Enemy1/Hitted/Strong/Frank_Damage_Stun03_start_Montage.Frank_Damage_Stun03_start_Montage',1,4
+13,StrongHit,AnimMontage'/Game/Character/Montages/Enemy1/Hitted/Strong/Frank_Damage_Bound03_Montage.Frank_Damage_Bound03_Montage',1,5
